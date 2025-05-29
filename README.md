@@ -57,6 +57,6 @@ This project helped me gain hands-on experience with **network reconnaissance** 
 
 ## 🙋‍♀️ About Me
 
-**Swaranjali**  
+**Swaranjali Pandey**  
 Second-year B.Tech student (Electronics and Communication Engineering)  
 Internship Role: Cyber Security Analyst
